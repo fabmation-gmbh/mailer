@@ -15,7 +15,10 @@ import (
 
 // Mailer represents a mailer instance.
 type Mailer struct {
-	Theme Theme
+	Theme              Theme
+	TextDirection      TextDirection
+	Product            Product
+	DisableCSSInlining bool
 }
 
 // Theme represents methods of a Theme.
