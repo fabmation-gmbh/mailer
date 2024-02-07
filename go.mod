@@ -6,8 +6,8 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/imdario/mergo v0.3.13
 	github.com/jaytaylor/html2text v0.0.0-20211105163654-bc68cce691ba
-	github.com/vanng822/go-premailer v1.20.1
-	github.com/yuin/goldmark v1.5.4
+	github.com/vanng822/go-premailer v1.20.2
+	github.com/yuin/goldmark v1.7.0
 )
 
 require (
